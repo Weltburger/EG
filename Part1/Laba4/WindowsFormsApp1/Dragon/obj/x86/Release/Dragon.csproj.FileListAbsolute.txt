@@ -1,0 +1,9 @@
+H:\0Универ\Инж. Граф\Laba4\WindowsFormsApp1\Dragon\bin\Release\Dragon.exe
+H:\0Универ\Инж. Граф\Laba4\WindowsFormsApp1\Dragon\bin\Release\Dragon.pdb
+H:\0Универ\Инж. Граф\Laba4\WindowsFormsApp1\Dragon\obj\x86\Release\Dragon.csprojAssemblyReference.cache
+H:\0Универ\Инж. Граф\Laba4\WindowsFormsApp1\Dragon\obj\x86\Release\Dragonborn.Form1.resources
+H:\0Универ\Инж. Граф\Laba4\WindowsFormsApp1\Dragon\obj\x86\Release\Dragonborn.Properties.Resources.resources
+H:\0Универ\Инж. Граф\Laba4\WindowsFormsApp1\Dragon\obj\x86\Release\Dragon.csproj.GenerateResource.cache
+H:\0Универ\Инж. Граф\Laba4\WindowsFormsApp1\Dragon\obj\x86\Release\Dragon.csproj.CoreCompileInputs.cache
+H:\0Универ\Инж. Граф\Laba4\WindowsFormsApp1\Dragon\obj\x86\Release\Dragon.exe
+H:\0Универ\Инж. Граф\Laba4\WindowsFormsApp1\Dragon\obj\x86\Release\Dragon.pdb

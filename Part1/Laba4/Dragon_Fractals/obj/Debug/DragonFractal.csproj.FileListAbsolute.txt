@@ -1,0 +1,13 @@
+E:\C#\Dragon_Fractals\bin\Debug\DragonFractal.exe.config
+E:\C#\Dragon_Fractals\bin\Debug\DragonFractal.exe
+E:\C#\Dragon_Fractals\bin\Debug\DragonFractal.pdb
+E:\C#\Dragon_Fractals\obj\Debug\DragonFractal.csprojResolveAssemblyReference.cache
+E:\C#\Dragon_Fractals\obj\Debug\DragonFractal.exe
+E:\C#\Dragon_Fractals\obj\Debug\DragonFractal.pdb
+H:\0Универ\Инж. Граф\Laba4\Dragon_Fractals\bin\Debug\DragonFractal.exe.config
+H:\0Универ\Инж. Граф\Laba4\Dragon_Fractals\bin\Debug\DragonFractal.exe
+H:\0Универ\Инж. Граф\Laba4\Dragon_Fractals\bin\Debug\DragonFractal.pdb
+H:\0Универ\Инж. Граф\Laba4\Dragon_Fractals\obj\Debug\DragonFractal.csprojAssemblyReference.cache
+H:\0Универ\Инж. Граф\Laba4\Dragon_Fractals\obj\Debug\DragonFractal.csproj.CoreCompileInputs.cache
+H:\0Универ\Инж. Граф\Laba4\Dragon_Fractals\obj\Debug\DragonFractal.exe
+H:\0Универ\Инж. Граф\Laba4\Dragon_Fractals\obj\Debug\DragonFractal.pdb

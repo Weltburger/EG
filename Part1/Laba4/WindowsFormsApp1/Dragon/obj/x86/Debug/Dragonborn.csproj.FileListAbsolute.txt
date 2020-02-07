@@ -1,0 +1,7 @@
+C:\Users\lilo\AppData\Local\Temporary Projects\Dragonborn\obj\x86\Debug\Dragonborn.Form1.resources
+C:\Users\lilo\AppData\Local\Temporary Projects\Dragonborn\obj\x86\Debug\Dragonborn.Properties.Resources.resources
+C:\Users\lilo\AppData\Local\Temporary Projects\Dragonborn\obj\x86\Debug\Dragonborn.csproj.GenerateResource.Cache
+C:\Users\lilo\AppData\Local\Temporary Projects\Dragonborn\bin\Debug\Dragonborn.exe
+C:\Users\lilo\AppData\Local\Temporary Projects\Dragonborn\bin\Debug\Dragonborn.pdb
+C:\Users\lilo\AppData\Local\Temporary Projects\Dragonborn\obj\x86\Debug\Dragonborn.exe
+C:\Users\lilo\AppData\Local\Temporary Projects\Dragonborn\obj\x86\Debug\Dragonborn.pdb

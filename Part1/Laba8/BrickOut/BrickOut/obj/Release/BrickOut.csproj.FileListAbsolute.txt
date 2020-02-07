@@ -1,0 +1,4 @@
+H:\0Универ\Инж. Граф\Laba8\BrickOut\BrickOut\obj\Release\BrickOut.Form1.resources
+H:\0Универ\Инж. Граф\Laba8\BrickOut\BrickOut\obj\Release\BrickOut.Properties.Resources.resources
+H:\0Универ\Инж. Граф\Laba8\BrickOut\BrickOut\obj\Release\BrickOut.csproj.GenerateResource.cache
+H:\0Универ\Инж. Граф\Laba8\BrickOut\BrickOut\obj\Release\BrickOut.csproj.CoreCompileInputs.cache

@@ -1,0 +1,47 @@
+C:\Users\HugoLeonel\Desktop\Visual Studio 2015\Projects\Games\BrickOut\PingPong\bin\Debug\BrickOut.exe.config
+C:\Users\HugoLeonel\Desktop\Visual Studio 2015\Projects\Games\BrickOut\BrickOut\bin\Debug\BrickOut.exe.config
+C:\Users\HugoLeonel\Desktop\Visual Studio 2015\Projects\Games\BrickOut\BrickOut\obj\Debug\BrickOut.csprojResolveAssemblyReference.cache
+C:\Users\HugoLeonel\Desktop\Visual Studio 2015\Projects\Games\BrickOut\BrickOut\obj\Debug\BrickOut.Form1.resources
+C:\Users\HugoLeonel\Desktop\Visual Studio 2015\Projects\Games\BrickOut\BrickOut\obj\Debug\BrickOut.Properties.Resources.resources
+C:\Users\HugoLeonel\Desktop\Visual Studio 2015\Projects\Games\BrickOut\BrickOut\obj\Debug\BrickOut.csproj.GenerateResource.Cache
+C:\Users\HugoLeonel\Desktop\Visual Studio 2015\Projects\Games\BrickOut\BrickOut\obj\Debug\BrickOut.exe
+C:\Users\HugoLeonel\Desktop\Visual Studio 2015\Projects\Games\BrickOut\BrickOut\obj\Debug\BrickOut.pdb
+C:\Users\HugoLeonel\Desktop\Visual Studio 2015\Projects\Games\BrickOut\BrickOut\bin\Debug\BrickOut.exe.manifest
+C:\Users\HugoLeonel\Desktop\Visual Studio 2015\Projects\Games\BrickOut\BrickOut\bin\Debug\BrickOut.application
+C:\Users\HugoLeonel\Desktop\Visual Studio 2015\Projects\Games\BrickOut\BrickOut\bin\Debug\BrickOut.exe
+C:\Users\HugoLeonel\Desktop\Visual Studio 2015\Projects\Games\BrickOut\BrickOut\bin\Debug\BrickOut.pdb
+C:\Users\HugoLeonel\Desktop\Visual Studio 2015\Projects\Games\BrickOut\BrickOut\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\HugoLeonel\Desktop\Visual Studio 2015\Projects\Games\BrickOut\BrickOut\obj\Debug\BrickOut.exe.manifest
+C:\Users\HugoLeonel\Desktop\Visual Studio 2015\Projects\Games\BrickOut\BrickOut\obj\Debug\BrickOut.application
+C:\Users\Pakowski\Downloads\Games-master\BrickOut\BrickOut\bin\Debug\BrickOut.exe.config
+C:\Users\Pakowski\Downloads\Games-master\BrickOut\BrickOut\bin\Debug\BrickOut.exe.manifest
+C:\Users\Pakowski\Downloads\Games-master\BrickOut\BrickOut\bin\Debug\BrickOut.application
+C:\Users\Pakowski\Downloads\Games-master\BrickOut\BrickOut\bin\Debug\BrickOut.exe
+C:\Users\Pakowski\Downloads\Games-master\BrickOut\BrickOut\bin\Debug\BrickOut.pdb
+C:\Users\Pakowski\Downloads\Games-master\BrickOut\BrickOut\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Pakowski\Downloads\Games-master\BrickOut\BrickOut\obj\Debug\BrickOut.csprojAssemblyReference.cache
+C:\Users\Pakowski\Downloads\Games-master\BrickOut\BrickOut\obj\Debug\BrickOut.Form1.resources
+C:\Users\Pakowski\Downloads\Games-master\BrickOut\BrickOut\obj\Debug\BrickOut.Properties.Resources.resources
+C:\Users\Pakowski\Downloads\Games-master\BrickOut\BrickOut\obj\Debug\BrickOut.csproj.GenerateResource.cache
+C:\Users\Pakowski\Downloads\Games-master\BrickOut\BrickOut\obj\Debug\BrickOut.csproj.CoreCompileInputs.cache
+C:\Users\Pakowski\Downloads\Games-master\BrickOut\BrickOut\obj\Debug\BrickOut.exe.manifest
+C:\Users\Pakowski\Downloads\Games-master\BrickOut\BrickOut\obj\Debug\BrickOut.application
+C:\Users\Pakowski\Downloads\Games-master\BrickOut\BrickOut\obj\Debug\BrickOut.csproj.CopyComplete
+C:\Users\Pakowski\Downloads\Games-master\BrickOut\BrickOut\obj\Debug\BrickOut.exe
+C:\Users\Pakowski\Downloads\Games-master\BrickOut\BrickOut\obj\Debug\BrickOut.pdb
+H:\0Универ\Инж. Граф\Laba8\BrickOut\BrickOut\bin\Debug\BrickOut.exe.config
+H:\0Универ\Инж. Граф\Laba8\BrickOut\BrickOut\bin\Debug\BrickOut.exe.manifest
+H:\0Универ\Инж. Граф\Laba8\BrickOut\BrickOut\bin\Debug\BrickOut.application
+H:\0Универ\Инж. Граф\Laba8\BrickOut\BrickOut\bin\Debug\BrickOut.exe
+H:\0Универ\Инж. Граф\Laba8\BrickOut\BrickOut\bin\Debug\BrickOut.pdb
+H:\0Универ\Инж. Граф\Laba8\BrickOut\BrickOut\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+H:\0Универ\Инж. Граф\Laba8\BrickOut\BrickOut\obj\Debug\BrickOut.csprojAssemblyReference.cache
+H:\0Универ\Инж. Граф\Laba8\BrickOut\BrickOut\obj\Debug\BrickOut.Form1.resources
+H:\0Универ\Инж. Граф\Laba8\BrickOut\BrickOut\obj\Debug\BrickOut.Properties.Resources.resources
+H:\0Универ\Инж. Граф\Laba8\BrickOut\BrickOut\obj\Debug\BrickOut.csproj.GenerateResource.cache
+H:\0Универ\Инж. Граф\Laba8\BrickOut\BrickOut\obj\Debug\BrickOut.csproj.CoreCompileInputs.cache
+H:\0Универ\Инж. Граф\Laba8\BrickOut\BrickOut\obj\Debug\BrickOut.exe.manifest
+H:\0Универ\Инж. Граф\Laba8\BrickOut\BrickOut\obj\Debug\BrickOut.application
+H:\0Универ\Инж. Граф\Laba8\BrickOut\BrickOut\obj\Debug\BrickOut.csproj.CopyComplete
+H:\0Универ\Инж. Граф\Laba8\BrickOut\BrickOut\obj\Debug\BrickOut.exe
+H:\0Универ\Инж. Граф\Laba8\BrickOut\BrickOut\obj\Debug\BrickOut.pdb

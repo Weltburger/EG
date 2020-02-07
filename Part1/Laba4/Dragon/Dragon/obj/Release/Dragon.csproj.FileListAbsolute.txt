@@ -1,0 +1,9 @@
+H:\0Универ\Инж. Граф\Laba4\Dragon\Dragon\bin\Release\Dragon.exe.config
+H:\0Универ\Инж. Граф\Laba4\Dragon\Dragon\bin\Release\Dragon.exe
+H:\0Универ\Инж. Граф\Laba4\Dragon\Dragon\bin\Release\Dragon.pdb
+H:\0Универ\Инж. Граф\Laba4\Dragon\Dragon\obj\Release\Dragon.Form1.resources
+H:\0Универ\Инж. Граф\Laba4\Dragon\Dragon\obj\Release\Dragon.Properties.Resources.resources
+H:\0Универ\Инж. Граф\Laba4\Dragon\Dragon\obj\Release\Dragon.csproj.GenerateResource.cache
+H:\0Универ\Инж. Граф\Laba4\Dragon\Dragon\obj\Release\Dragon.csproj.CoreCompileInputs.cache
+H:\0Универ\Инж. Граф\Laba4\Dragon\Dragon\obj\Release\Dragon.exe
+H:\0Универ\Инж. Граф\Laba4\Dragon\Dragon\obj\Release\Dragon.pdb

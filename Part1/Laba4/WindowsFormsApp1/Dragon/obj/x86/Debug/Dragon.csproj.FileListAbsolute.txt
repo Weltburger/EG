@@ -1,0 +1,25 @@
+C:\Users\lilo\Documents\Visual Studio 2010\Projects\Dragon\Dragon\bin\Debug\Dragon.exe
+C:\Users\lilo\Documents\Visual Studio 2010\Projects\Dragon\Dragon\bin\Debug\Dragon.pdb
+C:\Users\lilo\Documents\Visual Studio 2010\Projects\Dragon\Dragon\obj\x86\Debug\Dragonborn.Form1.resources
+C:\Users\lilo\Documents\Visual Studio 2010\Projects\Dragon\Dragon\obj\x86\Debug\Dragonborn.Properties.Resources.resources
+C:\Users\lilo\Documents\Visual Studio 2010\Projects\Dragon\Dragon\obj\x86\Debug\Dragon.csproj.GenerateResource.Cache
+C:\Users\lilo\Documents\Visual Studio 2010\Projects\Dragon\Dragon\obj\x86\Debug\Dragon.exe
+C:\Users\lilo\Documents\Visual Studio 2010\Projects\Dragon\Dragon\obj\x86\Debug\Dragon.pdb
+C:\Users\Pakowski\Downloads\Dragon_curve_Barketova\Dragon\bin\Debug\Dragon.exe
+C:\Users\Pakowski\Downloads\Dragon_curve_Barketova\Dragon\bin\Debug\Dragon.pdb
+C:\Users\Pakowski\Downloads\Dragon_curve_Barketova\Dragon\obj\x86\Debug\Dragon.csprojAssemblyReference.cache
+C:\Users\Pakowski\Downloads\Dragon_curve_Barketova\Dragon\obj\x86\Debug\Dragonborn.Form1.resources
+C:\Users\Pakowski\Downloads\Dragon_curve_Barketova\Dragon\obj\x86\Debug\Dragonborn.Properties.Resources.resources
+C:\Users\Pakowski\Downloads\Dragon_curve_Barketova\Dragon\obj\x86\Debug\Dragon.csproj.GenerateResource.cache
+C:\Users\Pakowski\Downloads\Dragon_curve_Barketova\Dragon\obj\x86\Debug\Dragon.csproj.CoreCompileInputs.cache
+C:\Users\Pakowski\Downloads\Dragon_curve_Barketova\Dragon\obj\x86\Debug\Dragon.exe
+C:\Users\Pakowski\Downloads\Dragon_curve_Barketova\Dragon\obj\x86\Debug\Dragon.pdb
+H:\0Универ\Инж. Граф\Laba4\WindowsFormsApp1\Dragon\bin\Debug\Dragon.exe
+H:\0Универ\Инж. Граф\Laba4\WindowsFormsApp1\Dragon\bin\Debug\Dragon.pdb
+H:\0Универ\Инж. Граф\Laba4\WindowsFormsApp1\Dragon\obj\x86\Debug\Dragon.csprojAssemblyReference.cache
+H:\0Универ\Инж. Граф\Laba4\WindowsFormsApp1\Dragon\obj\x86\Debug\Dragonborn.Form1.resources
+H:\0Универ\Инж. Граф\Laba4\WindowsFormsApp1\Dragon\obj\x86\Debug\Dragonborn.Properties.Resources.resources
+H:\0Универ\Инж. Граф\Laba4\WindowsFormsApp1\Dragon\obj\x86\Debug\Dragon.csproj.GenerateResource.cache
+H:\0Универ\Инж. Граф\Laba4\WindowsFormsApp1\Dragon\obj\x86\Debug\Dragon.csproj.CoreCompileInputs.cache
+H:\0Универ\Инж. Граф\Laba4\WindowsFormsApp1\Dragon\obj\x86\Debug\Dragon.exe
+H:\0Универ\Инж. Граф\Laba4\WindowsFormsApp1\Dragon\obj\x86\Debug\Dragon.pdb

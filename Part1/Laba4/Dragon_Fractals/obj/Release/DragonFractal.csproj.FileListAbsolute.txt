@@ -1,0 +1,7 @@
+H:\0Универ\Инж. Граф\Laba4\Dragon_Fractals\bin\Release\DragonFractal.exe.config
+H:\0Универ\Инж. Граф\Laba4\Dragon_Fractals\bin\Release\DragonFractal.exe
+H:\0Универ\Инж. Граф\Laba4\Dragon_Fractals\bin\Release\DragonFractal.pdb
+H:\0Универ\Инж. Граф\Laba4\Dragon_Fractals\obj\Release\DragonFractal.csprojAssemblyReference.cache
+H:\0Универ\Инж. Граф\Laba4\Dragon_Fractals\obj\Release\DragonFractal.csproj.CoreCompileInputs.cache
+H:\0Универ\Инж. Граф\Laba4\Dragon_Fractals\obj\Release\DragonFractal.exe
+H:\0Универ\Инж. Граф\Laba4\Dragon_Fractals\obj\Release\DragonFractal.pdb
