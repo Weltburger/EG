@@ -1,0 +1,28 @@
+D:\Workspace\Visual Studio\PythagorasTree\PythagorasTree\bin\Debug\PythagorasTree.exe.config
+D:\Workspace\Visual Studio\PythagorasTree\PythagorasTree\bin\Debug\PythagorasTree.exe
+D:\Workspace\Visual Studio\PythagorasTree\PythagorasTree\bin\Debug\PythagorasTree.pdb
+D:\Workspace\Visual Studio\PythagorasTree\PythagorasTree\obj\Debug\PythagorasTree.csprojResolveAssemblyReference.cache
+D:\Workspace\Visual Studio\PythagorasTree\PythagorasTree\obj\Debug\PythagorasTree.Form1.resources
+D:\Workspace\Visual Studio\PythagorasTree\PythagorasTree\obj\Debug\PythagorasTree.Properties.Resources.resources
+D:\Workspace\Visual Studio\PythagorasTree\PythagorasTree\obj\Debug\PythagorasTree.csproj.GenerateResource.Cache
+D:\Workspace\Visual Studio\PythagorasTree\PythagorasTree\obj\Debug\PythagorasTree.exe
+D:\Workspace\Visual Studio\PythagorasTree\PythagorasTree\obj\Debug\PythagorasTree.pdb
+d:\1\PythagorasTree\PythagorasTree\bin\Debug\PythagorasTree.exe.config
+d:\1\PythagorasTree\PythagorasTree\obj\Debug\PythagorasTree.exe
+d:\1\PythagorasTree\PythagorasTree\obj\Debug\PythagorasTree.pdb
+d:\1\PythagorasTree\PythagorasTree\bin\Debug\PythagorasTree.exe
+d:\1\PythagorasTree\PythagorasTree\bin\Debug\PythagorasTree.pdb
+d:\1\PythagorasTree\PythagorasTree\obj\Debug\PythagorasTree.csprojResolveAssemblyReference.cache
+d:\1\PythagorasTree\PythagorasTree\obj\Debug\PythagorasTree.Form1.resources
+d:\1\PythagorasTree\PythagorasTree\obj\Debug\PythagorasTree.Properties.Resources.resources
+d:\1\PythagorasTree\PythagorasTree\obj\Debug\PythagorasTree.csproj.GenerateResource.Cache
+H:\0Универ\Инж. Граф\Part2\Laba3\PythagorasTree\PythagorasTree\bin\Debug\PythagorasTree.exe.config
+H:\0Универ\Инж. Граф\Part2\Laba3\PythagorasTree\PythagorasTree\bin\Debug\PythagorasTree.exe
+H:\0Универ\Инж. Граф\Part2\Laba3\PythagorasTree\PythagorasTree\bin\Debug\PythagorasTree.pdb
+H:\0Универ\Инж. Граф\Part2\Laba3\PythagorasTree\PythagorasTree\obj\Debug\PythagorasTree.csprojAssemblyReference.cache
+H:\0Универ\Инж. Граф\Part2\Laba3\PythagorasTree\PythagorasTree\obj\Debug\PythagorasTree.Form1.resources
+H:\0Универ\Инж. Граф\Part2\Laba3\PythagorasTree\PythagorasTree\obj\Debug\PythagorasTree.Properties.Resources.resources
+H:\0Универ\Инж. Граф\Part2\Laba3\PythagorasTree\PythagorasTree\obj\Debug\PythagorasTree.csproj.GenerateResource.cache
+H:\0Универ\Инж. Граф\Part2\Laba3\PythagorasTree\PythagorasTree\obj\Debug\PythagorasTree.csproj.CoreCompileInputs.cache
+H:\0Универ\Инж. Граф\Part2\Laba3\PythagorasTree\PythagorasTree\obj\Debug\PythagorasTree.exe
+H:\0Универ\Инж. Граф\Part2\Laba3\PythagorasTree\PythagorasTree\obj\Debug\PythagorasTree.pdb
