@@ -16,7 +16,7 @@ namespace WindowsFormsApp1
         /* Коэффициенты матрицы видового преобразования */
         double v11, v12, v13, v21, v22, v23, v32, v33, v43;
         /* Сферические координаты точки наблюдения */
-        double rho = 150.0, theta = 50.0, phi = 65.0;
+        double rho = 150.0, theta = 180.0, phi = 85.0;
         /* Расстояние от точки наблюдения до экрана */
         double screen_dist = 100.0;
         /* Cмещение относительно левого нижнего угла экрана */
@@ -105,13 +105,14 @@ namespace WindowsFormsApp1
             /* Вычерчивание линии */
             Point point1 = new Point(IX(X1), IY(Y1));
             Point point2 = new Point(IX(X2), IY(Y2));
-            dc.DrawEllipse(p, IX(X1), IY(Y1), IX(X2), IY(Y2));
+            dc.DrawEllipse(p, IX(X1), IY(Y1), /*IX(X2), IY(Y2)*/ 220, 90);
         }
         /* Функция рисования проволочной модели куба */
         private void drawCube(double h)
         {
             //dw(h, -h, -h, h, h, -h); // Отрезок AB
-            de(h, -h, -h, h, h, -h); // Отрезок AB
+            //de(h-4.5, -h-6, -h-3.2, h+25, h+25, -h+25); // Отрезок AB
+            dc.DrawEllipse(p, 385, 350, 278, 90);
             //dw(h, h, -h, -h, h, -h); // Отрезок BC
             //dw(-h, h, -h, -h / 2, h / 2, h / 2); // Отрезок CG
             //dw(-h / 2, h / 2, h / 2, -h / 2, -h / 2, h / 2); // Отрезок GH
@@ -119,7 +120,9 @@ namespace WindowsFormsApp1
             dw(h, -h, h, h, -h, -h); // Отрезок EA
             dw(h, h, -h, h, h, h); // Отрезок BF
             //dw(h / 2, h / 2, h / 2, -h / 2, h / 2, h / 2); // Отрезок FG
-            dw(h, h, h, h, -h, h); // Отрезок FE
+            //dw(h, h, h, h, -h, h); // Отрезок FE
+            //de(h, -h, -h, h + 25, h + 25, -h - 25);
+            dc.DrawEllipse(p, 385, 125, 278, 90);
             //dw(h, -h, -h, -h, -h, -h); // Отрезок AD
             //dw(-h, -h, -h, -h, h, -h); // Отрезок DC
             //dw(-h, -h, -h, -h / 2, -h / 2, h / 2); // Отрезок DH
